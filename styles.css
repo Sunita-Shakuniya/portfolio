@@ -183,7 +183,7 @@ form {
     border-radius: 5px;
     line-height: 22px;
     background-color: transparent;
-    border: 2px solid #CC6666;
+    border: 2px solid #cccccc;
     transition: all 0.3s;
     padding: 13px;
     margin-bottom: 15px;
@@ -193,7 +193,7 @@ form {
 }
 
 .feedback-input:focus {
-    border: 2px solid #CC4949;
+    border: 2px solid #cccccc;
 }
 
 textarea {
@@ -205,7 +205,7 @@ textarea {
 [type="submit"] {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     width: 100%;
-    background: #CC6666;
+    background: #cccccc;
     border-radius: 5px;
     border: 0;
     cursor: pointer;
@@ -219,5 +219,5 @@ textarea {
 }
 
 [type="submit"]:hover {
-    background: #CC4949;
+    background: #cccccc;
 }
