@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 :root {
     --primary-color: #29a598;
     --text-color: #394c4a;
@@ -162,7 +163,7 @@ a:hover {
         margin: 0 auto; 
     }
 }
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 form { max-width:420px; margin:50px auto; }
 
 .feedback-input {
