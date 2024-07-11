@@ -25,7 +25,7 @@ body {
 }
 
 .header-background {
-    background: linear-gradient(rgba(255, 254, 253, 0.7), rgba(255, 254, 253, 0.9)), 
+    linear-gradient(rgba(255, 255, 255, 0.0), rgba(214, 223, 236, 1.5)),   
                 url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1720704436~exp=1720708036~hmac=3158219f196ff66be66f4192d18b2453d40c04ccd2bd7009cd1ba3c43a9b5c0e&w=996") center center fixed;
     background-size: cover;
     text-align: center;
